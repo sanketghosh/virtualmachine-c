@@ -2,4 +2,4 @@
 
 Implementing a simple minimal virtual machine in C programming language.
 
-- [Writing your own virtual machine by Justin Meiners](`https://www.jmeiners.com/lc3-vm/`)
+- [Writing your own virtual machine by Justin Meiners](https://www.jmeiners.com/lc3-vm/)
